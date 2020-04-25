@@ -10,6 +10,10 @@ body
 {
 	margin:0px;
 }
+ul li:first-child:hover
+{
+	border:none;
+}
 .nav
 {
 	width:100%;
